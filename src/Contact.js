@@ -12,7 +12,7 @@ function Contact() {
       <div className="flex justify-center gap-8 text-3xl">
         {/* GitHub */}
         <a
-          href="https://github.com/yourusername"
+          href="https://github.com/schandna30"
           target="_blank"
           rel="noopener noreferrer"
           className="text-gray-700 hover:text-blue-600 transition"
