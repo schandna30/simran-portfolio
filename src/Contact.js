@@ -22,7 +22,7 @@ function Contact() {
 
         {/* LinkedIn */}
         <a
-          href="https://linkedin.com/in/yourprofile"
+          href="https://www.linkedin.com/in/simran-chandna-55730b1b7"
           target="_blank"
           rel="noopener noreferrer"
           className="text-gray-700 hover:text-blue-600 transition"
@@ -33,7 +33,7 @@ function Contact() {
         {/* Trailhead */}
        {/* Salesforce (for Trailhead profile) */}
         <a
-        href="https://trailblazer.me/id/yourtrailheadid"
+        href="https://www.salesforce.com/trailblazer/schandna15"
         target="_blank"
         rel="noopener noreferrer"
         className="text-gray-700 hover:text-blue-600 transition"
